@@ -1,11 +1,16 @@
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=RiyaParikh0112.visitor-badge&left_color=green&right_color=red)
+<div align="center">
+<img width="100%" height = "250px" src="https://ibb.co/bNjggR0" alt="cover" />
+</div>
+<img align='center' src="https://visitor-badge.glitch.me/badge?page_id=RiyaParikh0112.visitor-badge&left_color=green&right_color=red">
+
+
+### <div align="center">I'm Riya, a budding Data Scientist 👩‍💻 and keen on learning new technologies 🚀</div>  
 
 
   
-
-### <div align="center">I'm Riya, a budding Data Scientist 👩‍💻 and keen on learning new technologies 🚀</div>  
 <br/>
+
 <div align="center">
 <a href="https://github.com/riyaparikh0112" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -56,29 +61,25 @@
 
 
 
-## Github Stats  
+## Github Stats 📈
+<div>
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=riyaparikh0112&show_icons=true&count_private=true&hide_border=true&theme=merko" align="center" />
-
 </div>
-<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=RiyaParikh0112&theme=merko)" align="center" />
-
+ <div align='center'><img src="https://github-readme-streak-stats.herokuapp.com?user=RiyaParikh0112&theme=merko" alt='readme stats'>
+   <div align='center'><img src="https://activity-graph.herokuapp.com/graph?username=RiyaParikh0112&bg_color=222021&color=77fdf4&line=c0ff14&point=71f901&area=true&hide_border=true"</div>
 </div>
+   
 
 
 <br/>  
 
  ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [How to prevent GitHub from suspending your cronjob based triggers](https://dev.to/gautamkrishnar/how-to-prevent-github-from-suspending-your-cronjob-based-triggers-knf)
+<!-- - [How to prevent GitHub from suspending your cronjob based triggers](https://dev.to/gautamkrishnar/how-to-prevent-github-from-suspending-your-cronjob-based-triggers-knf)
 - [How I built one of the top 20 most used Github Actions](https://www.gautamkrishnar.com/how-i-built-one-of-the-top-20-most-used-github-actions/)
 - [Show your latest dev.to posts automatically on your GitHub profile readme](https://dev.to/gautamkrishnar/show-your-latest-dev-to-posts-automatically-in-your-github-profile-readme-3nk8)
-- [God Mode in browsers: document.designMode = &quot;on&quot;](https://dev.to/gautamkrishnar/god-mode-in-browsers-document-designmode-on-2pmo)
+- [God Mode in browsers: document.designMode = &quot;on&quot;](https://dev.to/gautamkrishnar/god-mode-in-browsers-document-designmode-on-2pmo) -->
 <!-- BLOG-POST-LIST:END -->
-
-<div align="center">
-<img src="https://ibb.co/bNjggR0" align="center" style="width: 100%" />
-</div>  
-  
 
 <br/>  
 
