@@ -64,11 +64,26 @@
 
 ## Github Stats 📈
 <div>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=riyaparikh0112&show_icons=true&count_private=true&hide_border=true&theme=merko" align="center" />
-</div>
+<table align="center" cellspacing="0" cellpadding="0" border="0">
+  <tr>
+    <td>
+      <a href="https://github.com/thepushkarp">
+        <img src="https://github-readme-stats.vercel.app/api?username=riyaparikh0112&show_icons=true&count_private=true&hide_border=true&theme=merko"">
+      <a/>
+    </td>
+    <td>
+      <a href="https://github.com/thepushkarp">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyaparikh0112&layout=compact&theme="merko">
+      <a/>
+    </td>
+   </tr>
+</table>
+
+
  <div align='center'><img src="https://github-readme-streak-stats.herokuapp.com?user=RiyaParikh0112&theme=merko" alt='readme stats'>
    <div align='center'><img src="https://activity-graph.herokuapp.com/graph?username=RiyaParikh0112&bg_color=222021&color=77fdf4&line=c0ff14&point=71f901&area=true&hide_border=true"</div>
 </div>
+
    
 
 
@@ -88,4 +103,6 @@
 <a href="https://github.com/techytushar/random-memer"><img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." height="400"></a>
 
 <br/>  
+
+
 
