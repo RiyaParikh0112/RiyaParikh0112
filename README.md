@@ -67,13 +67,13 @@
 <table align="center" cellspacing="0" cellpadding="0" border="0">
   <tr>
     <td>
-      <a href="https://github.com/thepushkarp">
-        <img src="https://github-readme-stats.vercel.app/api?username=riyaparikh0112&show_icons=true&count_private=true&hide_border=true&theme=merko"">
+      <a href="https://github.com/riyaparikh0112">
+        <img src="https://github-readme-stats.vercel.app/api?username=riyaparikh0112&show_icons=true&count_private=true&hide_border=true&theme=merko">
       <a/>
     </td>
     <td>
-      <a href="https://github.com/thepushkarp">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyaparikh0112&layout=compact&theme="merko">
+      <a href="https://github.com/riyaparikh0112">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyaparikh0112&layout=compact&theme=merko">
       <a/>
     </td>
    </tr>
