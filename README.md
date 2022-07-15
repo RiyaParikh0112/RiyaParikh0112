@@ -62,7 +62,7 @@
 
 
 
-## Github Stats 📈
+## Github Stats📈
 <div>
 <table align="center" cellspacing="0" cellpadding="0" border="0">
   <tr>
