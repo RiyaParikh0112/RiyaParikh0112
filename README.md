@@ -41,13 +41,13 @@
 <br/>  
   
 
-- 🔭 I’m currently working on Machine Learning Projects  
+- 🔭 I’m currently working on Machine Learning and Deep Learning Projects  
   
 
-- 🌱 I’m currently learning Deep Learning and NLP  
+- 🌱 I’m currently learning Deep Learning and Computer Vision 
   
 
-- ❓ Ask me about anything related to Data Science, Frontend Development and UI/UXDesign  
+- ❓ Ask me about anything related to Data Science, Frontend Development and UI/UX Design  
   
 
 - ⚡ Fun fact: I use tabs over spaces  
