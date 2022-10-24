@@ -101,6 +101,7 @@
 - [God Mode in browsers: document.designMode = &quot;on&quot;](https://dev.to/gautamkrishnar/god-mode-in-browsers-document-designmode-on-2pmo) -->
 <!-- BLOG-POST-LIST:END -->
 
+
 ### Here is a random meme for you, to make your day better
 (*PS: Refresh the page to see a new meme!* :wink: )
 
