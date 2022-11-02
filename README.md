@@ -6,7 +6,7 @@
 <img align='center' src="https://visitor-badge.glitch.me/badge?page_id=RiyaParikh0112.visitor-badge&left_color=green&right_color=red">
 
 
-### <div align="center">I'm Riya,a budding Data Scientist 👩‍💻 and keen on learning new technologies 🚀</div>  
+### <div align="center">I'm Riya, a budding Data Scientist 👩‍💻 and keen on learning new technologies 🚀</div>  
 
 
   
