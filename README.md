@@ -47,7 +47,7 @@
 - 🌱 I’m currently learning Deep Learning and Computer Vision 
   
 
-- ❓ Ask me about anything related to Data Science, Frontend Development and UI/UX Design  
+- ❓ Ask me  about anything related to Data Science, Frontend Development and UI/UX Design  
   
 
 - ⚡ Fun fact: I use tabs over spaces  
