@@ -44,10 +44,10 @@
 - 🔭 I’m currently working on Machine Learning and Deep Learning Projects  
   
 
-- 🌱 I’m currently learning Deep Learning and Computer Vision 
+- 🌱 I’m currently learning Reinforcement Learning and Computer Vision 
   
 
-- ❓ Ask me  about anything related to Data Science, Frontend Development and UI/UX Design  
+- ❓ Ask me  about anything related to Deep Learning,NLP, Data Science, Frontend Development,UI/UX Design or just anything.. I am just a curious child!
   
 
 - ⚡ Fun fact: I use tabs over spaces  
