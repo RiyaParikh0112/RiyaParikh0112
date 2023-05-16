@@ -7,7 +7,7 @@
 
 
 ### <div align="center">I'm Riya,a budding Data Scientist 👩‍💻 and keen on learning new technologies  🚀</div>   
-
+ 
 
   
 <br/>
