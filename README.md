@@ -2,7 +2,7 @@
 <div align="center">
 <img width="100%" height = "250px" src="https://i.ibb.co/GMDN0Y1/result.png" alt="cover" />
 
-</div> 
+</div>  
 <img align='center' src="https://visitor-badge.glitch.me/badge?page_id=RiyaParikh0112.visitor-badge&left_color=green&right_color=red">
 
 
