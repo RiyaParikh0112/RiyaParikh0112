@@ -26,6 +26,9 @@
 <a href="https://www.kaggle.com/riyaparikh01" target="_blank">
 <img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
 </a>
+<a href="https://www.buymeacoffee.com/riyaparikh" target="_blank">
+<img src=https://img.shields.io/badge/buy_me_a_coffee-FFDD00?&style=for-the-badge&logo=buymeacoffee&logoColor=black alt="buy me a coffee" style="margin-bottom: 5px;" />
+</a>
 </div>
 
 <br/>
@@ -128,6 +131,14 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=RiyaParikh0112&theme=merko" alt='streak stats'>
 </div>
 </div>
+
+<br/>
+
+### if something here saved you a few tokens of thinking
+
+I'm building small AI products in public, revenue numbers and mistakes included. coffee keeps the API bills paid and the shipping going ☕
+
+<a href="https://www.buymeacoffee.com/riyaparikh" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" /></a>
 
 <br/>
 
